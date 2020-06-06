@@ -1,9 +1,9 @@
 import express, { response } from "express";
+import routes from "./routes";
 
 const app = express();
 
-app.post("/", (request, response) => {
-  return response.json({});
-});
+app.use(express.json());
+app.use(routes);
 
 app.listen(3333);
