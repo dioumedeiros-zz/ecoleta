@@ -24,9 +24,9 @@ You can view the project layout in the format through [this link]
 ## 🤔 How to contribute
 
 - Fork this repository;
-- Create a branch with your feature: `git checkout -b minha-feature`;
-- Commit your changes: `git commit -m 'feat: Minha nova feature'`;
-- Push to your branch: `git push origin minha-feature`.
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
 
 After the merge of your pull request is done, you can delete your branch.
 
